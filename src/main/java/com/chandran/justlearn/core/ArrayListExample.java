@@ -12,7 +12,8 @@ public class ArrayListExample {
 
         System.out.println("al "+al);
 
-        ArrayList<String> alc = (ArrayList) al.clone();
+        @SuppressWarnings("unchecked")
+		ArrayList<String> alc = (ArrayList<String>) al.clone();
 
         System.out.println("ALC "+alc);
 
