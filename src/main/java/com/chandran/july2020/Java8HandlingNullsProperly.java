@@ -13,7 +13,7 @@ import java.util.Optional;
 
 public class Java8HandlingNullsProperly {
 
-	/**
+	/**    
 	 * @param args
 	 */
 	public static final List<String> NAMES = Arrays.asList("Rita", "Gita", "Nita", "Ritesh", "Nitesh", "Ganesh",
