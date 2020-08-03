@@ -6,9 +6,9 @@ import java.util.Optional;
 
 /**
  * 
- * Date : Date : July 10 2020.12:29:30 PM Purpose : Let's learn how to use Java
- * 8's Optionals to make your null checks simple and less error-prone! Author :
- * chandran sellappan
+ * Date : Date : July 10 2020.12:29:30 PM 
+ * Purpose : Let's learn how to use Java 8's Optionals to make your null checks simple and less error-prone!
+ *  Author  : chandran sellappan
  **/
 
 public class Java8HandlingNullsProperly {
