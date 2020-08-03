@@ -58,7 +58,7 @@ public class Java8HandlingNullsProperly {
 			postMessage(luckyName);
 		}
 	}
-
+	/*  This method used to format */
 	public static void postMessage(final String winnerName) {
 		System.out.println(String.format("Congratulations, %s!", winnerName));
 	}
