@@ -7,7 +7,7 @@ import java.util.Comparator;
 
 /*
  * Date : July 6 2020.
- * This program is for Java 8 lambda Expressions example.
+ * This program is for Java 8 sorting example.
  *  
  */
 
