@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 /**
- * Date : Aug 3, 2020 3:19:17 PM Purpose : I have already shared sorting of
+ * Date : Aug 1, 2020 3:19:17 PM Purpose : I have already shared sorting of
  * ArrayList in ascending order. In this post we will learn how to sort an
  * ArrayList in descending order (decreasing order).
  * 
